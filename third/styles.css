@@ -1,0 +1,41 @@
+.head {
+    background-color: #d8d8d8;
+    width: 100%;
+    height: 10vh;
+    padding: 10px 0px 0px 10px;
+}
+
+.square {
+    background-color: #4a90e2;
+    width: 100px;
+    height: 100px;
+}
+
+.content {
+    width: 100%;
+    height: 24vh;
+    padding: 40px;
+    font-size: 36px;
+    font-family: sans-serif;
+}
+
+.color-bar {
+    width: 100%;
+    height: 16.5vh;
+}
+
+.bar1 {
+    background-color: #4a90e2;
+}
+
+.bar2 {
+    background-color: #50e3c2;
+}
+
+.bar3 {
+    background-color: #b8e986;
+}
+
+.bar4 {
+    background-color: #f8e71c;
+}
